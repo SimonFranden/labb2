@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Labb2page/static/css/main.9e972b17.css",
-    "main.js": "/Labb2page/static/js/main.d187f38d.js",
-    "static/media/mtb-game.jpg": "/Labb2page/static/media/mtb-game.278abbe352c2e52e4ee3.jpg",
-    "static/media/nts-reklam.png": "/Labb2page/static/media/nts-reklam.96395fb15d7d2a1690f8.png",
-    "static/media/profile.png": "/Labb2page/static/media/profile.56eac41c72c6fd3a541c.png",
-    "static/media/backapp.png": "/Labb2page/static/media/backapp.a1d957b5b85f119fb4e7.png",
-    "index.html": "/Labb2page/index.html",
-    "main.9e972b17.css.map": "/Labb2page/static/css/main.9e972b17.css.map",
-    "main.d187f38d.js.map": "/Labb2page/static/js/main.d187f38d.js.map"
+    "main.css": "/labb2/static/css/main.9e972b17.css",
+    "main.js": "/labb2/static/js/main.f4789e29.js",
+    "static/media/mtb-game.jpg": "/labb2/static/media/mtb-game.278abbe352c2e52e4ee3.jpg",
+    "static/media/nts-reklam.png": "/labb2/static/media/nts-reklam.96395fb15d7d2a1690f8.png",
+    "static/media/profile.png": "/labb2/static/media/profile.56eac41c72c6fd3a541c.png",
+    "static/media/backapp.png": "/labb2/static/media/backapp.a1d957b5b85f119fb4e7.png",
+    "index.html": "/labb2/index.html",
+    "main.9e972b17.css.map": "/labb2/static/css/main.9e972b17.css.map",
+    "main.f4789e29.js.map": "/labb2/static/js/main.f4789e29.js.map"
   },
   "entrypoints": [
     "static/css/main.9e972b17.css",
-    "static/js/main.d187f38d.js"
+    "static/js/main.f4789e29.js"
   ]
 }
